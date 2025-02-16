@@ -204,13 +204,13 @@ img {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
-    border-radius: 0px 0px 4px 4px;
-    overflow: hidden;
 }
 .team-item {
     background-color: #fff;
     max-width: 264px;
     height: 380px;
+    border-radius: 0 0 4px 4px;
+    overflow: hidden;
 }
 
 .text-container {
